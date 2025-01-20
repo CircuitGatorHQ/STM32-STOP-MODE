@@ -1,5 +1,5 @@
 # STM32-STOP-MODE
-This is a simple code you can use to make your STM32 Microcontroller enter the Stop Mode option of the low power modes automatically, and exit this mode when the built-in button is pressed. The full video tutorial is available on YouTube: 
+This is a simple code you can use to make your STM32 Microcontroller enter the Stop Mode option of the low power modes automatically, and exit this mode when the built-in button is pressed. The full video tutorial is available on YouTube: https://youtu.be/td_CbkFBCfE
 
       /* Private includes ----------------------------------------------------------*/
       /* USER CODE BEGIN Includes */
